@@ -23,7 +23,7 @@ fake-news-detector
 ├── news.csv  
 ├── model.pkl  
 ├── vectorizer.pkl  
-└── README.md  
+└── README.md 
 
 ## How to Run the Project
 1. Install required libraries
