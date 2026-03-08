@@ -45,5 +45,5 @@ streamlit run app.py
 - Improve model accuracy
 - Add news article classification instead of only headlines
 
-## Author
-Your Name
+## Author By 
+Likitha Manchikanti
