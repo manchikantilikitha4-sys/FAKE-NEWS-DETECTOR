@@ -40,7 +40,8 @@ streamlit run app.py
 - Simple user interface
 - Real-time prediction of news headlines
 
-## Future Improvements
+## Project Report
+project-report.pdf
 - Use a larger dataset
 - Improve model accuracy
 - Add news article classification instead of only headlines
